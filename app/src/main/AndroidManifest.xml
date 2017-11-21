@@ -19,7 +19,8 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".Intents.IntentActivityTwo" />
         <activity android:name=".Intents.IntentActivityOne" />
-        <activity android:name=".recyclerView.RecyclerViewActivity"></activity>
+        <activity android:name=".recyclerView.RecyclerViewActivity" />
+        <activity android:name=".LifeCycleActivity"></activity>
     </application>
 
 </manifest>
